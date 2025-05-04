@@ -6,7 +6,7 @@
     (property "Value" "776228-1" (id 1) (at 1.27 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ecu-tech_lib_private:TE 776228-1" (id 2) (at 1.27 6.35 0)
+    (property "Footprint" "gerefi_lib_private:TE 776228-1" (id 2) (at 1.27 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 1.27 6.35 0)

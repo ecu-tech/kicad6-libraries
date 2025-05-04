@@ -5,12 +5,12 @@
   (paper "A4")
 
   (title_block
-    (title "ecu-TECH Proteus")
+    (title "gerEFI Proteus")
     (date "2022-04-09")
     (rev "v0.7")
-    (company "ecu-TECH")
+    (company "gerEFI")
     (comment 1 "github.com/mck1117/proteus")
-    (comment 2 "ecu-tech.com/s/proteus")
+    (comment 2 "gerefi.com/s/proteus")
   )
 
   (lib_symbols

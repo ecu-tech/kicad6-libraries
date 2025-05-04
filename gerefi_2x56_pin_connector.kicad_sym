@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "ecu-tech_2x56_pin_conn"
+	(symbol "gerefi_2x56_pin_conn"
 		(pin_names
 			(offset 0.002)
 		)
@@ -17,7 +17,7 @@
 				)
 			)
 		)
-		(property "Value" "ecu-tech_2x56_pin_conn"
+		(property "Value" "gerefi_2x56_pin_conn"
 			(at 10.16 -290.83 0)
 			(effects
 				(font
@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad6-libraries:ecu-tech_2x56_pin_connector"
+		(property "Footprint" "kicad6-libraries:gerefi_2x56_pin_connector"
 			(at 10.16 -20.32 90)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				)
 			)
 		)
-		(symbol "ecu-tech_2x56_pin_conn_1_1"
+		(symbol "gerefi_2x56_pin_conn_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 12.7 -289.56)

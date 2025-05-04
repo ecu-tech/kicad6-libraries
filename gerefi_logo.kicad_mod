@@ -1,11 +1,11 @@
-(footprint "ECU-TECH_LOGO" (version 20210824) (generator pcbnew) (layer "F.Cu")
+(footprint "GEREFI_LOGO" (version 20210824) (generator pcbnew) (layer "F.Cu")
   (tedit 6155D6A7)
   (attr through_hole)
   (fp_text reference "G?" (at 0 4.14782) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
     (tstamp c9907188-54d0-4ba9-b307-bbf72a157d2e)
   )
-  (fp_text value "ECU-TECH_LOGO" (at 0 -4.14782) (layer "F.SilkS") hide
+  (fp_text value "GEREFI_LOGO" (at 0 -4.14782) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
     (tstamp 56ca4bb4-484f-4a1b-aaca-18aa82e1817d)
   )

@@ -529,7 +529,7 @@
     (solder_mask_margin 0.102) (tstamp 1aa626a0-47c9-483e-b9cc-f2f014a2e8d4))
   (pad "82" thru_hole circle (at -114 -1.7 180) (size 3.516 3.516) (drill 2.5) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 525d0655-bb70-404c-bdd0-4f8547bb8aa5))
-  (model "C:/github/ecu-tech/private-hardware/kicad6-libraries/TE_8-1393476-0.stp"
+  (model "C:/github/gerefi/private-hardware/kicad6-libraries/TE_8-1393476-0.stp"
     (offset (xyz -56.1 33 13.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

@@ -1,11 +1,11 @@
-(footprint "ecu-tech_2x56_pin_connector" (version 20221018) (generator pcbnew)
+(footprint "gerefi_2x56_pin_connector" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "REF**" (at 2.5 1.75) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d82da999-c2ff-4e26-9d5a-606508f7d250)
   )
-  (fp_text value "ecu-tech_2x56_pin_connector" (at -0.5 0 90) (layer "F.Fab")
+  (fp_text value "gerefi_2x56_pin_connector" (at -0.5 0 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 68fcb2ac-744e-440c-905c-1803bacc2236)
   )
